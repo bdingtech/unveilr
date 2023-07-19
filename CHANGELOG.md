@@ -1,5 +1,9 @@
 # 更改日志
 
+### [:bookmark:vv2.0.0-alpha.0 :loud_sound:2023-07-19](https://github.com/r3x5ur/unveilr/tree/vv2.0.0-alpha.0)
+- 🐛解决部分已知问题
+---
+
 ### [:bookmark:v2.0.0-beta.1 :loud_sound:2023-04-02](https://github.com/r3x5ur/unveilr/tree/v2.0.0-beta.1)
 * [PR] fix bug (#45,#46) by @r3x5ur in https://github.com/r3x5ur/unveilr/pull/47
 * 🐛fix bug  [#54](https://github.com/r3x5ur/unveilr/issues/54) 
